@@ -18,7 +18,7 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 - [**Hammer Hub**](https://github.com/lisiCAO/hammer-hub): An online auction platform showcasing full-stack capabilities with React and Express.
 
 ## Connect with Me 🌐
-- **LinkedIn**: [lisi-cao-147265191](http://linkedin.com/in/lisi-cao)
+- **LinkedIn**: [lisi-cao](http://linkedin.com/in/lisi-cao)
 - **LeetCode**: [caolisi0921](https://leetcode.com/caolisi0921/)
 - **Email**: [caolisi@hotmail.com](mailto:caolisi@hotmail.com)
 
