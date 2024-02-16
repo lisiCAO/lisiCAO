@@ -12,7 +12,7 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 - **Practices**: Agile Development, Continuous Integration & Deployment
 
 ## Projects 💼
-- [**Pantry Page**](https://github.com/lisiCAO/PantryPage): A Recipe Management System built with Laravel and React.
+- [**Pantry Page**](https://github.com/lisiCAO/PantryPage): A Laravel and React-based Recipe Management System focusing on advanced business logic for sharing, commenting, and managing recipes.
 - [**QLMS**](https://github.com/lisiCAO/QLMS): A comprehensive platform for landlords in Québec, developed using Azure and Google OAuth.
 - [**Legal Tech Tales**](https://github.com/lisiCAO/Legal-Tech-Tales): An interactive learning platform leveraging React and Node.js.
 - [**Hammer Hub**](https://github.com/lisiCAO/hammer-hub): An online auction platform showcasing full-stack capabilities with React and Express.
