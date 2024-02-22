@@ -14,8 +14,8 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 ## Projects 💼
 - [**Pantry Page**](https://github.com/lisiCAO/PantryPage): A Laravel and React-based Recipe Web focusing on sharing, commenting, and managing recipes.
 - [**QLMS**](https://github.com/lisiCAO/QLMS): A comprehensive platform for landlords in Québec, developed using Azure and Google OAuth.
-- [**Legal Tech Tales**](https://github.com/lisiCAO/Legal-Tech-Tales): An interactive learning platform leveraging React and Node.js.
-- [**Hammer Hub**](https://github.com/lisiCAO/hammer-hub): An online auction platform showcasing full-stack capabilities with React and Express.
+- [**Tic Tac Toe**](https://lisicao.github.io/Tic-Tac-Toe/): An classic board game built by JavaScript.
+- [**Copyright Book Navigator**]((https://github.com/lisiCAO/Copyright-Book-Navigator)): Currently developing an intuitive platform to facilitate easy access to copyright-compliant books, tailored to assist users in navigating the complexities of intellectual property.
 
 ## Connect with Me 🌐
 - **LinkedIn**: [lisi-cao](http://linkedin.com/in/lisi-cao)
