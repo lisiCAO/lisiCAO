@@ -16,6 +16,7 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 - [**QLMS**](https://github.com/lisiCAO/QLMS): A comprehensive platform for landlords in Québec, developed using Azure and Google OAuth.
 - [**Tic Tac Toe**](https://lisicao.github.io/Tic-Tac-Toe/): An classic board game built by JavaScript.
 - [**Copyright Book Navigator**](https://github.com/lisiCAO/Copyright-Book-Navigator): Currently developing an intuitive platform to facilitate easy access to copyright-compliant books, tailored to assist users in navigating the complexities of intellectual property.
+- [**Snakes and Ladders Game**](https://github.com/lisiCAO/Ladders-and-Snakes/releases/download/v1/SnakesAndLadders-1.0.dmg): A fun and interactive Snakes and Ladders game for macOS. Download and enjoy the classic board game with a modern twist. [Download Here](https://github.com/lisiCAO/Ladders-and-Snakes/releases/download/v1/SnakesAndLadders-1.0.dmg)
 
 ## Connect with Me 🌐
 - **LinkedIn**: [lisi-cao](http://linkedin.com/in/lisi-cao)
@@ -25,4 +26,3 @@ I'm a **Full Stack Developer** passionate about building high-performance web ap
 ---
 
 📚 *Eager to learn, ready to contribute, and excited to collaborate on innovative projects!*
-
