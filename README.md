@@ -5,13 +5,14 @@
 I'm a **Full Stack Developer** passionate about building high-performance web applications from the ground up. With a blend of front-end creativity and back-end logic, I strive to deliver user-centric solutions that drive business success.
 
 ## Skills 🛠️
-- **Languages**: HTML, CSS, JavaScript, Java, PHP
-- **Frameworks/Libraries**: React, Laravel, Node.js, Spring Boot
-- **Databases**: MySQL, MongoDB
-- **Tools & Platforms**: Docker, AWS, Azure, Git
+- **Languages**: HTML, CSS, JavaScript, Java, PHP, C#
+- **Frameworks/Libraries**: React, Laravel, Node.js, Spring Boot, .NET
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools & Platforms**: Docker, AWS, Azure, Git, K8s, Google Cloud, Jira
 - **Practices**: Agile Development, Continuous Integration & Deployment
 
 ## Projects 💼
+- [**Book E Store**](https://github.com/lisiCAO/Book-E-Commerce): A .NET and C# based Book e-commercial store with all features.
 - [**Pantry Page**](https://github.com/lisiCAO/PantryPage): A Laravel and React-based Recipe Web focusing on sharing, commenting, and managing recipes.
 - [**QLMS**](https://github.com/lisiCAO/QLMS): A comprehensive platform for landlords in Québec, developed using Azure and Google OAuth.
 - [**Tic Tac Toe**](https://lisicao.github.io/Tic-Tac-Toe/): An classic board game built by JavaScript.
